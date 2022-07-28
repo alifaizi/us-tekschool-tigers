@@ -1,0 +1,716 @@
+2022-06-14 11:49:03,511 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 11:49:03,908 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 11:49:03,919 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 11:49:07,689 [main] INFO logger_File - Scenario Check the search box is functioning as expected UNDEFINED
+2022-06-14 11:50:04,076 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 11:50:04,415 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 11:50:04,436 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 11:56:44,456 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 11:56:44,877 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 11:56:44,889 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:01:30,611 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 12:01:31,021 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 12:01:31,033 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:06:40,317 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 12:06:40,702 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 12:06:40,713 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:27:02,278 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 12:27:02,664 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 12:27:02,680 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:27:05,652 [main] INFO logger_File - User is on the Tek School retail page successfully
+2022-06-14 12:27:05,732 [main] INFO logger_File - The user entered Camera in the search box successfully
+2022-06-14 12:27:06,226 [main] INFO logger_File - The user clicked on th search button successfully
+2022-06-14 12:27:06,263 [main] INFO logger_File - The user got the search result successfully
+2022-06-14 12:27:06,314 [main] INFO logger_File - The user added the item in the cart succeesfully
+2022-06-14 12:27:06,916 [main] INFO logger_File - Scenario Check the search box is functioning as expected PASSED
+2022-06-14 12:32:31,698 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 12:32:32,121 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 12:32:32,137 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:32:35,314 [main] INFO logger_File - User is on the Tek School retail page successfully
+2022-06-14 12:32:35,412 [main] INFO logger_File - The user entered Camera in the search box successfully
+2022-06-14 12:32:35,828 [main] INFO logger_File - The user clicked on th search button successfully
+2022-06-14 12:32:35,860 [main] INFO logger_File - The user got the search result successfully
+2022-06-14 12:32:35,908 [main] INFO logger_File - The user added the item in the cart succeesfully
+2022-06-14 12:32:41,984 [main] INFO logger_File - Scenario Check the search box is functioning as expected PASSED
+2022-06-14 12:38:45,253 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 12:38:45,673 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 12:38:45,689 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:38:48,796 [main] INFO logger_File - User is on the Tek School retail page successfully
+2022-06-14 12:38:48,878 [main] INFO logger_File - The user entered Camera in the search box successfully
+2022-06-14 12:38:49,319 [main] INFO logger_File - The user clicked on th search button successfully
+2022-06-14 12:38:49,350 [main] INFO logger_File - The user got the search result successfully
+2022-06-14 12:38:49,402 [main] INFO logger_File - The user added the item in the cart succeesfully
+2022-06-14 12:38:50,230 [main] INFO logger_File - Scenario Check the search box is functioning as expected PASSED
+2022-06-14 12:48:33,401 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-06-14 12:48:33,809 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 12:48:33,825 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 12:48:36,915 [main] INFO logger_File - User is on the Tek School retail page successfully
+2022-06-14 12:48:43,024 [main] INFO logger_File - The user entered Camera in the search box successfully
+2022-06-14 12:48:49,515 [main] INFO logger_File - The user clicked on th search button successfully
+2022-06-14 12:48:55,575 [main] INFO logger_File - The user got the search result successfully
+2022-06-14 12:49:01,670 [main] INFO logger_File - The user added the item in the cart succeesfully
+2022-06-14 12:49:12,645 [main] INFO logger_File - Scenario Check the search box is functioning as expected PASSED
+2022-06-14 13:17:37,317 [main] INFO logger_File - Scenario Test the valid login started
+2022-06-14 13:17:37,608 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 102.0.5005.61 (since Google Chrome 102 is installed in your machine)
+2022-06-14 13:17:37,618 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\janal\.m2\repository\webdriver\chromedriver\win32\102.0.5005.61\chromedriver.exe
+2022-06-14 13:17:41,512 [main] INFO logger_File - Scenario Test the valid login UNDEFINED
+2022-07-19 21:25:24,018 [main] INFO logger_File - Scenario Check login is successful with valid credentials started
+2022-07-19 21:25:29,498 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:30,045 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:30,045 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:30,136 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:30,137 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:30,460 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:30,461 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:30,475 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:30,475 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:30,781 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:30,782 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:30,791 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:30,841 [main] INFO logger_File - Scenario Register with Test Environment  Website started
+2022-07-19 21:25:30,846 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:31,111 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,112 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,119 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:31,119 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:31,383 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,384 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,390 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:31,390 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:31,672 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,672 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,678 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:31,693 [main] INFO logger_File - Scenario Validate Tablets tab on the UI started
+2022-07-19 21:25:31,697 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:31,946 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,946 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:31,951 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:31,951 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:32,276 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:32,277 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:32,282 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:32,282 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:32,591 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:32,591 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:32,596 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:32,618 [main] INFO logger_File - Scenario Validate Homepage links started
+2022-07-19 21:25:32,621 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:32,888 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:32,889 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:32,892 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:32,893 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:33,201 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:33,201 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:33,205 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:33,205 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:33,545 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:33,545 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:33,548 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:33,566 [main] INFO logger_File - Scenario Login to Test Environment with One User started
+2022-07-19 21:25:33,570 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:33,861 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:33,861 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:33,866 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:33,866 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:34,314 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:34,314 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:34,317 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:34,318 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:34,570 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:34,570 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:34,574 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:34,584 [main] INFO logger_File - Scenario Login with multiple users started
+2022-07-19 21:25:34,589 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:34,891 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:34,892 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:34,895 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:34,895 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:35,233 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:35,234 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:35,237 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:35,237 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:35,599 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:35,599 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:35,603 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:35,614 [main] INFO logger_File - Scenario Login with multiple users started
+2022-07-19 21:25:35,618 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:36,089 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:36,090 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:36,094 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:36,094 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:36,455 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:36,455 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:36,461 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:36,461 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:36,824 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:36,826 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:36,829 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:36,841 [main] INFO logger_File - Scenario Login with multiple users started
+2022-07-19 21:25:36,849 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:37,203 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:37,203 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:37,207 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:37,207 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:37,492 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:37,493 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:37,498 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:37,498 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:37,735 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:37,736 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:37,738 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:37,747 [main] INFO logger_File - Scenario Check the search box is functioning as expected started
+2022-07-19 21:25:37,750 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:38,069 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,069 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,074 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:38,074 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:38,340 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,341 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,345 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:38,345 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:38,593 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,594 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,596 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
+2022-07-19 21:25:38,604 [main] INFO logger_File - Scenario Login to Tekschool Tetail page with one user started
+2022-07-19 21:25:38,608 [main] INFO io.github.bonigarcia.wdm.WebDriverManager - Using msedgedriver 103.0.1264.37 (since Microsoft Edge 103 is installed in your machine)
+2022-07-19 21:25:38,852 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,853 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:38,859 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:38,859 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using mirror
+2022-07-19 21:25:39,092 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:39,092 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="c60bc7d19769abf2d9626d3aab928a7b46d9cbd98f66d0b2768bb918c11d5053", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:39,096 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/
+2022-07-19 21:25:39,096 [main] WARN io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver 103.0.1264.37 (msedgedriver 103.0.1264.37 for WIN64 not found in https://developer.microsoft.com/en-us/microsoft-edge/tools/webdriver/) ... trying again using latest from cache
+2022-07-19 21:25:39,352 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinity="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:39,353 [main] WARN org.apache.http.client.protocol.ResponseProcessCookies - Cookie rejected [ARRAffinitySameSite="0fbd9e410edb7b8b53454cf720693ac636e666b9408aa97a8cd8b298d409a3e0", version:0, domain:msedgeportal.trafficmanager.net, path:/, expiry:null] Illegal 'domain' attribute "msedgeportal.trafficmanager.net". Domain of origin: "developer.microsoft.com"
+2022-07-19 21:25:39,356 [main] ERROR io.github.bonigarcia.wdm.WebDriverManager - There was an error managing msedgedriver (latest version) (null)
+java.util.NoSuchElementException
+	at java.util.ArrayList$Itr.next(ArrayList.java:864)
+	at io.github.bonigarcia.wdm.EdgeDriverManager.checkLatest(EdgeDriverManager.java:179)
+	at io.github.bonigarcia.wdm.WebDriverManager.filterCandidateUrls(WebDriverManager.java:799)
+	at io.github.bonigarcia.wdm.WebDriverManager.downloadAndExport(WebDriverManager.java:568)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:547)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:773)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.handleException(WebDriverManager.java:766)
+	at io.github.bonigarcia.wdm.WebDriverManager.manage(WebDriverManager.java:550)
+	at io.github.bonigarcia.wdm.WebDriverManager.setup(WebDriverManager.java:260)
+	at core.BaseClass.browser(BaseClass.java:101)
+	at stepDefinitions.Initializer.beforeHooks(Initializer.java:26)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at io.cucumber.java.Invoker.doInvoke(Invoker.java:66)
+	at io.cucumber.java.Invoker.invoke(Invoker.java:24)
+	at io.cucumber.java.AbstractGlueDefinition.invokeMethod(AbstractGlueDefinition.java:47)
+	at io.cucumber.java.JavaHookDefinition.execute(JavaHookDefinition.java:59)
+	at io.cucumber.core.runner.CoreHookDefinition.execute(CoreHookDefinition.java:46)
+	at io.cucumber.core.runner.HookDefinitionMatch.runStep(HookDefinitionMatch.java:21)
+	at io.cucumber.core.runner.ExecutionMode$1.execute(ExecutionMode.java:10)
+	at io.cucumber.core.runner.TestStep.executeStep(TestStep.java:92)
+	at io.cucumber.core.runner.TestStep.run(TestStep.java:64)
+	at io.cucumber.core.runner.TestCase.run(TestCase.java:98)
+	at io.cucumber.core.runner.Runner.runPickle(Runner.java:73)
+	at io.cucumber.junit.PickleRunners$NoStepDescriptions.run(PickleRunners.java:151)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:135)
+	at io.cucumber.junit.FeatureRunner.runChild(FeatureRunner.java:27)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:200)
+	at io.cucumber.junit.Cucumber.runChild(Cucumber.java:90)
+	at org.junit.runners.ParentRunner$3.run(ParentRunner.java:238)
+	at org.junit.runners.ParentRunner$1.schedule(ParentRunner.java:63)
+	at org.junit.runners.ParentRunner.runChildren(ParentRunner.java:236)
+	at org.junit.runners.ParentRunner.access$000(ParentRunner.java:53)
+	at org.junit.runners.ParentRunner$2.evaluate(ParentRunner.java:229)
+	at io.cucumber.junit.Cucumber$RunCucumber.evaluate(Cucumber.java:235)
+	at org.junit.internal.runners.statements.RunAfters.evaluate(RunAfters.java:27)
+	at org.junit.runners.ParentRunner.run(ParentRunner.java:309)
+	at org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)
+	at org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:541)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:763)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:463)
+	at org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:209)
